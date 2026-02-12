@@ -42,5 +42,3 @@
     "https://huggingface.co/JunkyByte/easy_ViTPose/resolve/main/onnx/wholebody/vitpose-l-wholebody.onnx"
   ]
 } 
-
-https://traff.co/367o57Od
